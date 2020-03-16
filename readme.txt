@@ -1,4 +1,4 @@
-This is software to train the RNN models on the J1-J2 heisenberg described in LINK PAPER
+This is software to train the RNN models on the J1-J2 heisenberg described in https://arxiv.org/pdf/2003.06228.pdf
 
 To train a model from scrach type into the command line:
 
